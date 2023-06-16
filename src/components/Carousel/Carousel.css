@@ -1,0 +1,9 @@
+.carousel-section {
+    width: 60%;
+}
+
+@media screen and (max-width: 850px) {
+    .carousel-section {
+        min-width: 100%;
+    }
+}
